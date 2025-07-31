@@ -1,6 +1,4 @@
 # 🎧 This is HAYDEN! 
-> *Code in rhythm, debug in silence*  
-
 ---
 
 ## 🚀 About Me 

@@ -1,16 +1,16 @@
 # 🎧 This is HAYDEN! 
 ---
+## 🛠️ Tech Stack 
+- 🐍 Python | C++ 
+- 🔥 PyTorch | OpenCV
+- ✍️ LaTeX | Markdown 
 
 ## 🚀 About Me 
 - 🌱 Computer Vision Graduate Researcher
 - 🎧 R&B & Electronic Music Enthusiast 
 - 🔎 Mystery Novel Addict 
-- 📖 30+ E-books/year Reader
 
-## 🛠️ Tech Stack 
-- 🐍 Python | C++ 
-- 🔥 PyTorch | OpenCV
-- ✍️ LaTeX | Markdown 
+
 
 ---
 
